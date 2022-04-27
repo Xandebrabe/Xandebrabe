@@ -6,6 +6,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xandebrabe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  [![wakatime](https://wakatime.com/badge/github/Xandebrabe/Codes_For_OBI.svg)](https://wakatime.com/badge/github/Xandebrabe/Codes_For_OBI)
-  
 
